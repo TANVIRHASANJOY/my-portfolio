@@ -43,8 +43,8 @@ export default function Navbar() {
             View CV
           </a>
           <a
-            href="/assets/Tanvir Hasan Joy1.pdf"
-            download="Tanvir_Hasan_Joy_cv.pdf"
+            href="/assets/Tanvir Hasan Joy(CV).pdf"
+            download="Tanvir Hasan Joy(CV).pdf"
             className="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition"
           >
             Download
